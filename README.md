@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Vignesh!
-Welcome to my GitHub profile! I'm a passionate developer with a focus on front-end technologies and building dynamic web applications. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate developer with a focus on Web technologies and building dynamic web applications. Here's a little bit about me:
 
 ## 💬 About Me
 - Front-end developer
